@@ -4,14 +4,6 @@ Please follow the detailed instructions on how to run this React sample with ZIT
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**To run this project**
+- Ensure dependencies are installed by running "npm start"
+- configure the client id in accordance to your own client id
